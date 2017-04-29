@@ -1,2 +1,2 @@
 # hello-world
-Github testing has gone wild
+Github testing done and learned well
